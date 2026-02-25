@@ -8,4 +8,4 @@ spirit foundation
 do not like change
 
 # explore
-try somethig
+try somethig......
