@@ -1,11 +1,3 @@
 
-# game
-try you like it 
-# owner 
-spirit foundation
-
-# game
-do not like change
-
-# explore
-try somethig......
+# game over
+  not like this
